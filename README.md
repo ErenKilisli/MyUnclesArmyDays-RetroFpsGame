@@ -4,4 +4,4 @@ My Uncle's Military Memories is one of the projects I enjoyed doing the most. Th
 
 Assets were taken from many different places, but they were never used for commercial purposes and those with permission were taken.
 
-Other gameplay videos from my Games: 
+Other gameplay videos from my Games: https://www.youtube.com/watch?v=Hgw0bLTZ790&list=PL8pigdE7Oeb3couSwPXJSrcNjad9NlDSR
