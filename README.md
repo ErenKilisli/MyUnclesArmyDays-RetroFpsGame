@@ -1,8 +1,8 @@
 # My Uncle's Army Days (Retro FPS Game)
 
-Developed with Unreal Engine 5
+Developed with Unreal Engine 5.3
 
-For gameplay video: [Watch Here](https://www.youtube.com/watch?v=5CH33vElWk0\&list=PL8pigdE7Oeb3couSwPXJSrcNjad9NlDSR\&index=2)
+[Click here for gameplay video](https://www.youtube.com/watch?v=5CH33vElWk0\&list=PL8pigdE7Oeb3couSwPXJSrcNjad9NlDSR\&index=2)
 
 **My Uncle's Army Days** is one of the projects I enjoyed doing the most. This game is a retro FPS, inspired by Doom, with programming, game, and level design entirely done by me. It features:
 
